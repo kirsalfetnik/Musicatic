@@ -64,10 +64,10 @@ const ListItem: React.FC<ListItemProps> = ({
                     flex
                     items-center
                     justify-center
-                    bg-orange-700
+                    bg-red-500
                     p-4
                     drop-shadow-md
-                    right-5
+                    right-4
                     group-hover:opacity-100
                     hover:scale-110
                 "
